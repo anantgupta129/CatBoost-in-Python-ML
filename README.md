@@ -15,3 +15,9 @@ Refrences
 -------
 - All CatBoost documentation is available [here](https://catboost.ai/docs/concepts/about.html)
 - [dataset link](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))
+
+Reference Paper
+-------
+Anna Veronika Dorogush, Andrey Gulin, Gleb Gusev, Nikita Kazeev, Liudmila Ostroumova Prokhorenkova, Aleksandr Vorobev ["Fighting biases with dynamic boosting"](https://arxiv.org/abs/1706.09516). arXiv:1706.09516, 2017.
+
+Anna Veronika Dorogush, Vasily Ershov, Andrey Gulin ["CatBoost: gradient boosting with categorical features support"](http://learningsys.org/nips17/assets/papers/paper_11.pdf). Workshop on ML Systems
