@@ -9,7 +9,7 @@ Main advantages of CatBoost:
   - Fast GPU and multi-GPU support for training out of the box.
   - Visualization tools [included](https://catboost.ai/docs/features/visualization.html).
   
-Implementation of CatBoost in machine learning using Python
+Implementation of CatBoost in machine learning in Python on brest cancer dataset
 
 Refrences
 -------
