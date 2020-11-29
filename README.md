@@ -15,6 +15,7 @@ Refrences
 -------
 - All CatBoost documentation is available [here](https://catboost.ai/docs/concepts/about.html)
 - [dataset link](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))
+- https://catboost.ai/docs/concepts/python-reference_parameters-list.html
 
 Reference Paper
 -------
